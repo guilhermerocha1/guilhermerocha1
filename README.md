@@ -1,4 +1,4 @@
-## Oi, meu name e Guilherme 👋
+## Oi, meu name e Guilherme Rocha 👋
 
 :mortar_board: Estudo programação na <a href='https://www.betrybe.com/' target="_blank">Trybe</a>, focada em desenmvolvimento web.
 
