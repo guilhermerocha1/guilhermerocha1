@@ -2,7 +2,7 @@
 
 <div>
   <h4>Meus interessses pessoais</h4>
-  <img align="right" src='https://media2.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611af388e1246889a023e121f9f574bb0aa08b05d43&rid=giphy.gif&ct=g' />
+  <img width='400px' align="right" src='https://media2.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611af388e1246889a023e121f9f574bb0aa08b05d43&rid=giphy.gif&ct=g' />
   <ul>
     <li>👨🏽‍💻 Estudando backend com Docker | Nodejs | MYSQL</li>
     <li>🌱 Estou aprendendo sobre containers e imagems no Docker</li>
@@ -37,6 +37,6 @@
 <br>
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermerocha1&show_icons=true&theme=dracula" alt="" height="130em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermerocha1&layout=compact&langs_count=7&theme=dracula" height="130em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilhermerocha1&show_icons=true&theme=dracula" alt="" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermerocha1&layout=compact&langs_count=7&theme=dracula" height="150em"/>
 </div>
