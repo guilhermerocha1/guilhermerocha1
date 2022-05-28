@@ -1,6 +1,6 @@
 <p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe.</p>
 
-<img width='350px' src='https://media2.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611af388e1246889a023e121f9f574bb0aa08b05d43&rid=giphy.gif&ct=g' />
+<img width='350px' align='rigth' src='https://media2.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611af388e1246889a023e121f9f574bb0aa08b05d43&rid=giphy.gif&ct=g' />
 
 <div>
   <h4>Meus interessses pessoais</h4>
@@ -30,7 +30,6 @@
 <h4>📞 Contatos</h4>
   
 <div>
-  <a href="https://www.instagram.com/guilhermerocha318/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1652664255~hmac=95216efd439472c13446d82d4a9c489b" target="_blank" width='60px'></a>
   <a href="https://www.linkedin.com/in/guilherme-rocha-ba705421a/" target="_blank" width='100px'><img src="https://github.com/GabrielCoruja/GabrielCoruja/raw/master/images/linkedin.png" target="_blank" width='60px'></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg"><img src="https://github.com/GabrielCoruja/GabrielCoruja/raw/master/images/gmail.png" target="_blank" width='60px'></a>
 </div>
