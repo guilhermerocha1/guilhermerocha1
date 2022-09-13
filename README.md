@@ -1,12 +1,10 @@
 <p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe.</p>
 
-<img width='350px' align='rigth' src='https://media2.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=790b7611af388e1246889a023e121f9f574bb0aa08b05d43&rid=giphy.gif&ct=g' />
-
 <div>
   <h4>Meus interessses pessoais</h4>
   <ul>
-    <li>👨🏽‍💻 Estudando backend com Docker | Nodejs | MySQL</li>
-    <li>🌱 Estou aprendendo sobre containers e imagems no Docker</li>
+    <li>👨🏽‍💻 Estudando MongoDB</li>
+    <li>🌱 Estou aprendendo sobre banco de dados MongoDB</li>
     <li>🤔 Gosto muito de futebol é estar com minha família</li>
     <li>📫 Para falar comigo, meu email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg" target="_blank">guilhermerochasilva318@gmail.com</a> ou no <a href="https://www.linkedin.com/in/guilherme-rocha-ba705421a/" target="_blank">Linkedin</a></li>
     <li>💬 Pergunte-me sobre qualquer coisa, sou muito colaborativo</li>
@@ -24,6 +22,9 @@
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='50px'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' width='50px'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg' width='50px'/>
+  <img src='https://img.icons8.com/color/344/typescript.png' width='50px'/>
+  <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' width='50px'/>
+  <img src='https://img.icons8.com/color/344/nodejs.png' width='50px'/>
 <div>
 
 
