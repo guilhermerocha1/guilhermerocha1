@@ -6,7 +6,7 @@
     <li>👨🏽‍💻 Estudando MongoDB</li>
     <li>🌱 Estou aprendendo sobre banco de dados MongoDB</li>
     <li>🤔 Gosto muito de futebol é estar com minha família</li>
-    <li>📫 Para falar comigo, meu email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg" target="_blank">guilhermerochasilva318@gmail.com</a> ou no <a href="https://www.linkedin.com/in/guilherme-rocha-ba705421a/" target="_blank">Linkedin</a></li>
+    <li>📫 Para falar comigo, meu email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg" target="_blank">guilhermerochasilva318@gmail.com</a> ou no <a href="https://www.linkedin.com/in/guilhermerocha318/" target="_blank">Linkedin</a></li>
     <li>💬 Pergunte-me sobre qualquer coisa, sou muito colaborativo</li>
     <li>📖 Veja meu Curriculum Vitae clicando <a href=''>aqui</a> para mais informações</li>
   </ul>
