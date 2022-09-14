@@ -1,18 +1,19 @@
-<p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe.</p>
+<h2>Oi, meu nome é Guilherme 👋</h2>
+<p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe, escola de programação do futuro. Estudo programação deste de criança, hoje como adulto estou destinado a inpactar as pessoas com código. Gosto muito de musica, estou aprendendo a tocar estrumentos com hobby. </p>
 
 <div>
-  <h4>Meus interessses pessoais</h4>
+  <h3>😅 Falando um pouco sobre mim</h3>
   <ul>
-    <li>👨🏽‍💻 Estudando MongoDB</li>
-    <li>🌱 Estou aprendendo sobre banco de dados MongoDB</li>
-    <li>🤔 Gosto muito de futebol é estar com minha família</li>
-    <li>📫 Para falar comigo, meu email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg" target="_blank">guilhermerochasilva318@gmail.com</a> ou no <a href="https://www.linkedin.com/in/guilhermerocha318/" target="_blank">Linkedin</a></li>
-    <li>💬 Pergunte-me sobre qualquer coisa, sou muito colaborativo</li>
-    <li>📖 Veja meu Curriculum Vitae clicando <a href=''>aqui</a> para mais informações</li>
+    <li>👨🏽‍💻 Atualmente estudando Back end focando em tecnologias como NodeJS e Mysql.</li>
+    <li>🌱 Estou aprendendo sobre banco de dados com Mysql, e aprendendo sobre framework express para gerir APIs e dokerizando todo Back end com Docker</li>
+    <li>🤔 No meu tempo livre, gosto muito de jogar e assistir futebol, estar com minha família, e aprender sobre música e meu mais novo hobby</li>
+    <li>📫 Para falar comigo, meu email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg" target="_blank">guilhermerochasilva318@gmail.com</a> ou no <a href="https://www.linkedin.com/in/guilhermerocha318/" target="_blank">Linkedin</a>, são redes que mais uso é respondo bem rápido.</li>
+    <li>💬 Adoro filmes e séries, em especial series de suspense com um pouco de ação, e reviravoltas e atualmente estou curtindo muito animes que são desenhos japoneses.</li>
+    <li>📖 Veja meu Curriculum Vitae clicando <a href=''>aqui</a> para mais informações sobre carreira</li>
   </ul>
 </div>
 
-<h4>🖥️ Tecnologias e Ferramentas</h4>
+<h3>🖥️ Tecnologias e Ferramentas</h3>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50px"/>
@@ -25,10 +26,13 @@
   <img src='https://img.icons8.com/color/344/typescript.png' width='50px'/>
   <img src='https://www.mysql.com/common/logos/logo-mysql-170x115.png' width='50px'/>
   <img src='https://img.icons8.com/color/344/nodejs.png' width='50px'/>
+  <img src='https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667' width='50px'/>
+  <img src='https://camo.githubusercontent.com/e283cab049c866f174e0892a3a622fea361338a0e898dcb1d5bd366c61ff80b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6865726f6b752f6865726f6b752d706c61696e2d776f72646d61726b2e737667' width='50px'/>
+  <img src='https://camo.githubusercontent.com/40756575fc2fd74b1883ea0cc5c2a49aa7048ab58286f43a121109d69a9ea160/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667' width='50px'/>
 <div>
 
 
-<h4>📞 Contatos</h4>
+<h3>📞 Contatos</h3>
   
 <div>
   <a href="https://www.linkedin.com/in/guilherme-rocha-ba705421a/" target="_blank" width='100px'><img src="https://github.com/GabrielCoruja/GabrielCoruja/raw/master/images/linkedin.png" target="_blank" width='60px'></a>
@@ -36,7 +40,8 @@
 </div>
 
 <br>
-  
+ 
+<h3>⭐ GitHub Stats</h3>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Guilhermerocha1&show_icons=true&theme=dracula" alt="" height="150em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermerocha1&layout=compact&langs_count=7&theme=dracula" height="150em"/>
