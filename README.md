@@ -1,5 +1,5 @@
 <h2>Oi, meu nome é Guilherme 👋</h2>
-<p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe, escola de programação do futuro. Estudo programação deste de criança, hoje como adulto estou destinado a inpactar as pessoas com código. Gosto muito de musica, estou aprendendo a tocar estrumentos com hobby. </p>
+<p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe, escola de programação do futuro. Estudo programação deste de criança, hoje como adulto estou destinado a inpactar as pessoas com código. Gosto muito de musica, estou aprendendo a tocar estrumentos como hobby. </p>
 
 <div>
   <h3>😅 Falando um pouco sobre mim</h3>
