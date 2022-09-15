@@ -9,7 +9,7 @@
     <li>🤔 No meu tempo livre, gosto muito de jogar e assistir futebol, estar com minha família, e aprender sobre música e meu mais novo hobby</li>
     <li>📫 Para falar comigo, meu email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjGbwzzGtRZJHFqmkgxZrnRGxvBlfphXfWvQGPmWPCrGRthcFnpptfLZsMfmJqdRWGCg" target="_blank">guilhermerochasilva318@gmail.com</a> ou no <a href="https://www.linkedin.com/in/guilhermerocha318/" target="_blank">Linkedin</a>, são redes que mais uso é respondo bem rápido.</li>
     <li>💬 Adoro filmes e séries, em especial series de suspense com um pouco de ação, e reviravoltas e atualmente estou curtindo muito animes que são desenhos japoneses.</li>
-    <li>📖 Veja meu Curriculum Vitae clicando <a href=''>aqui</a> para mais informações sobre carreira</li>
+    <li>📖 Veja meu currículo clicando <a href='https://drive.google.com/file/d/1E01Zphd6l4YeeWrKu0AIPPXlAc9G-YJC/view?usp=sharing' target="blank">aqui</a> para mais informações sobre carreira</li>
   </ul>
 </div>
 
