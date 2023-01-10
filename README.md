@@ -1,5 +1,5 @@
 <h2>Oi, meu nome é Guilherme 👋</h2>
-<p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, atulmente estou estudando desemvolvimento de software na Trybe, escola de programação do futuro. Estudo programação deste de criança, hoje como adulto estou destinado a inpactar as pessoas com código </p>
+<p>Olá, meu nome e <b>Guilherme Rocha Silva</b> sou de Fortaleza-CE, Sou <b>Densemvolvedor de Software Full Stack</b> JavaScript, React, MySQL, Node... Estudo programação deste de criança, hoje como adulto estou destinado a inpactar as pessoas com código </p>
 
 <div>
   <h3>😅 Falando um pouco sobre mim</h3>
